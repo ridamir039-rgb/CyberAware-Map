@@ -3,7 +3,7 @@
 
 ## 📌 Inspiration
 
-Cybercrime is on the rise—ransomware, phishing, and DDoS attacks are disrupting global operations daily. As cybersecurity learners, we wanted to create an application that visualizes **how often** and **where** these attacks occur, while educating users on **what they are** and **how to stay protected**.
+Cybercrime is on the rise ransomware, phishing, and DDoS attacks are disrupting global operations daily. As cybersecurity learners, we wanted to create an application that visualizes how often and where these attacks occur, while educating users on what they are and how to stay protected.
 
 
 ## 🛠 Features
@@ -26,7 +26,7 @@ Cybercrime is on the rise—ransomware, phishing, and DDoS attacks are disruptin
 
 ## 📊 Dataset
 
-Our `enhanced_data.json` contains 60+ **researched** cyberattack incidents from around the world, including:
+Our `enhanced_data.json` contains 60+ researched cyberattack incidents from around the world, including:
 
 - Ransomware attacks in San Francisco (USA)
 - DDoS campaigns in the UK and Japan
@@ -52,7 +52,7 @@ Each entry includes:
 
 ## 👨‍💻 Team
 
-> Developed by **Rida** and **Sidra Maryam**,  Computer Science students passionate about cybersecurity, frontend engineering, and data storytelling.
+> Developed by Rida and Sidra Maryam,  Computer Science students passionate about cybersecurity, frontend engineering, and data storytelling.
 
 
 ## 🔗 Links
