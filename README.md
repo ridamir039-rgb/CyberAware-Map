@@ -10,9 +10,7 @@ Cybercrime is on the rise—ransomware, phishing, and DDoS attacks are disruptin
 
 - 🗺️ **Interactive Map**: Displays 40+ real-world cyberattacks with location markers.
 - 💡 **Glassmorphic Playcards**: Animated, beautifully styled attack details.
-- ⏳ **Auto-Closing Cards**: Enhances UX with timed playcard closing on marker click.
 - 🎬 **Welcome Animation**: Elegant loader screen powered by `Orbitron` font and neon glow.
-- 🇺🇳 **Country Flags + Attack Icons**: Rich contextual markers for better user understanding.
 - 🔍 **Prevention Tips**: Educates users on how to mitigate each attack type.
 
 
@@ -43,15 +41,6 @@ Each entry includes:
 - Full Definition
 - Prevention Techniques
 - Country Code (for flag rendering)
-- Attack Icon
-
-
-
-## 📸 Screenshots
-Map interface: ![map](assets/map-sample.png)  
-Playcard interface: ![card](assets/playcard-sample.png) 
-
-
 
 ## 📚 Future Enhancements
 
@@ -61,17 +50,13 @@ Playcard interface: ![card](assets/playcard-sample.png)
 - Mobile-first UI enhancement
 
 
-
 ## 👨‍💻 Team
 
 > Developed by **Rida** and **Sidra Maryam**,  Computer Science students passionate about cybersecurity, frontend engineering, and data storytelling.
 
 
-
 ## 🔗 Links
 
 - 🔗 [Live Demo](https://yourusername.github.io/cyberaware/)
-- 🔗 [GitHub Repository](https://github.com/yourusername/cyberaware)
-- 🔗 [Devpost Submission](https://devpost.com/software/cyberaware)
-- 📄 [Project Report (DOCX)](https://github.com/yourusername/cyberaware/blob/main/Devpost%20CyberAware%20Project%20Report.docx)
+- 📄 [Project Report (DOCX)](https://github.com/ridamir039-rgb/cyberaware/blob/main/Devpost%20CyberAware%20Project%20Report.docx)
 
