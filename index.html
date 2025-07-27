@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CyberAware - Cyberattack Map</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Loader -->
+  <div id="loader">
+    <div class="loader-text">Welcome to CyberAware</div>
+  </div>
+  <!-- Background Effects -->
+  <div id="particles-js"></div>
+  <!-- Map Container -->
+  <div class="map-background">
+    <div id="map"></div>
+  </div>
+  <!-- Cards for Attacks -->
+  <div id="card-container"></div>
+  <!-- Javascript for map APIs-->
+  <script src="script.js"></script>
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBpUK-y9GWHEHGwTM79jEEOFwnUTaCRG_o&callback=initMap"
+    async defer></script>
+</body>
+</html>

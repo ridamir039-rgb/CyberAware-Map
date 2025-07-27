@@ -1,0 +1,702 @@
+[
+  {
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "02:30",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom.",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "11:45",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members.",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.8969,
+    "longitude": -8.4863,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "09:20",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation.",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "04:00",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S.",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.557399999999994,
+    "longitude": -0.1778,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "13:15",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #5]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 37.834900000000005,
+    "longitude": -122.4794,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "14:18",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #6]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.9669,
+    "longitude": -8.5563,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "15:21",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #7]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.2427,
+    "longitude": -86.8616,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "16:24",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #8]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.5974,
+    "longitude": -0.2178,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "17:27",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #9]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 37.874900000000004,
+    "longitude": -122.51939999999999,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "18:30",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #10]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.0069,
+    "longitude": -8.5963,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "19:33",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #11]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.2827,
+    "longitude": -86.9016,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "8:36",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #12]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.6374,
+    "longitude": -0.25780000000000003,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "9:39",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #13]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 37.9149,
+    "longitude": -122.5594,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "10:42",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #14]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.0469,
+    "longitude": -8.6363,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "11:45",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #15]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.3227,
+    "longitude": -86.9416,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "12:48",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #16]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.6774,
+    "longitude": -0.2978,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "13:51",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #17]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 37.9549,
+    "longitude": -122.5994,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "14:54",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #18]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.0869,
+    "longitude": -8.6763,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "15:57",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #19]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.362700000000004,
+    "longitude": -86.9816,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "16:00",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #20]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.7174,
+    "longitude": -0.3378,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "17:03",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #21]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 37.9949,
+    "longitude": -122.6394,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "18:06",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #22]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.1269,
+    "longitude": -8.7163,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "19:09",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #23]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.4027,
+    "longitude": -87.02159999999999,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "8:12",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #24]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.7574,
+    "longitude": -0.3778,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "9:15",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #25]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 38.0349,
+    "longitude": -122.6794,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "10:18",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #26]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.166900000000005,
+    "longitude": -8.7563,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "11:21",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #27]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.4427,
+    "longitude": -87.0616,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "12:24",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #28]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.797399999999996,
+    "longitude": -0.41779999999999995,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "13:27",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #29]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 38.0749,
+    "longitude": -122.7194,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "14:30",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #30]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.206900000000005,
+    "longitude": -8.7963,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "15:33",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #31]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.4827,
+    "longitude": -87.10159999999999,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "16:36",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #32]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.837399999999995,
+    "longitude": -0.4578,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "17:39",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #33]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 38.114900000000006,
+    "longitude": -122.7594,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "18:42",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #34]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.246900000000004,
+    "longitude": -8.8363,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "19:45",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #35]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.5227,
+    "longitude": -87.1416,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "8:48",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #36]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "latitude": 51.877399999999994,
+    "longitude": -0.4978,
+    "attack_type": "Ransomware",
+    "date": "2023-10-28",
+    "time": "9:51",
+    "definition": "The British Library suffered a ransomware attack by the Rhysida group, leaking over 600 GB of data after a refused ransom. [Event #37]",
+    "prevention": "Implement zero-trust architecture, regular offline backups, and segmented network access controls.",
+    "country": "UK"
+  },
+  {
+    "latitude": 38.154900000000005,
+    "longitude": -122.79939999999999,
+    "attack_type": "Ransomware",
+    "date": "2024-06-29",
+    "time": "10:54",
+    "definition": "Patelco Credit Union in San Francisco suffered a ransomware attack, causing widespread outages for over 1 million members. [Event #38]",
+    "prevention": "Regular software patching, employee training, and endpoint protection systems.",
+    "country": "USA"
+  },
+  {
+    "latitude": 52.2869,
+    "longitude": -8.8763,
+    "attack_type": "Ransomware",
+    "date": "2023-02-01",
+    "time": "11:57",
+    "definition": "Munster Technological University in Ireland was hit by a ransomware attack, forcing campus closure and data breach investigation. [Event #39]",
+    "prevention": "Routine vulnerability assessments and encrypted backup strategies.",
+    "country": "Ireland"
+  },
+  {
+    "latitude": 36.5627,
+    "longitude": -87.1816,
+    "attack_type": "Ransomware",
+    "date": "2024-02-21",
+    "time": "12:00",
+    "definition": "Change Healthcare, a part of UnitedHealth, faced a ransomware attack by BlackCat, impacting healthcare billing across the U.S. [Event #40]",
+    "prevention": "Implement EDR/XDR, incident response plans, and active monitoring.",
+    "country": "USA"
+  },
+  {
+    "attack_type": "Phishing",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "date": "2023-10-03",
+    "time": "09:45",
+    "definition": "Phishing is a cyberattack where attackers impersonate legitimate entities to steal sensitive data.",
+    "security": "Avoid clicking unknown links, verify email addresses, use multi-factor authentication.",
+    "country_code": "gb"
+  },
+  {
+    "attack_type": "DDoS",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "date": "2023-09-12",
+    "time": "03:20",
+    "definition": "DDoS attacks flood a network or server with traffic to exhaust resources and disrupt service.",
+    "security": "Use firewalls, rate limiting, and DDoS protection services.",
+    "country_code": "jp"
+  },
+  {
+    "attack_type": "SQL Injection",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "date": "2023-11-01",
+    "time": "12:00",
+    "definition": "SQL injection exploits vulnerabilities in database queries to gain unauthorized access.",
+    "security": "Use parameterized queries and input validation.",
+    "country_code": "us"
+  },
+  {
+    "attack_type": "Man-in-the-Middle",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "date": "2023-07-15",
+    "time": "14:30",
+    "definition": "MitM attacks intercept communication between two parties to steal or manipulate data.",
+    "security": "Use HTTPS, VPNs, and secure Wi-Fi networks.",
+    "country_code": "fr"
+  },
+  {
+    "attack_type": "Data Breach",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "date": "2023-08-21",
+    "time": "18:45",
+    "definition": "A data breach involves unauthorized access to confidential or sensitive information.",
+    "security": "Encrypt sensitive data and monitor for unauthorized access.",
+    "country_code": "ru"
+  },
+  {
+    "attack_type": "Zero-Day Exploit",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "date": "2023-10-10",
+    "time": "10:10",
+    "definition": "Zero-day exploits target software vulnerabilities unknown to the vendor.",
+    "security": "Keep software updated and monitor vulnerability disclosures.",
+    "country_code": "de"
+  },
+  {
+    "attack_type": "Spyware",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "date": "2023-09-25",
+    "time": "16:15",
+    "definition": "Spyware is malicious software that collects user data without consent.",
+    "security": "Use reputable antivirus software and avoid downloading from untrusted sources.",
+    "country_code": "in"
+  },
+  {
+    "attack_type": "Malware",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "date": "2023-11-05",
+    "time": "20:00",
+    "definition": "Malware refers to software intentionally designed to cause damage to a computer.",
+    "security": "Update software regularly and use malware protection tools.",
+    "country_code": "au"
+  },
+  {
+    "attack_type": "Credential Stuffing",
+    "latitude": 43.65107,
+    "longitude": -79.347015,
+    "date": "2023-10-18",
+    "time": "07:30",
+    "definition": "Credential stuffing uses stolen login details from one breach to access other systems.",
+    "security": "Use unique passwords and enable multi-factor authentication.",
+    "country_code": "ca"
+  },
+  {
+    "attack_type": "Insider Threat",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "date": "2023-08-29",
+    "time": "11:45",
+    "definition": "Insider threats are security risks from individuals within the organization.",
+    "security": "Monitor user behavior and enforce access controls.",
+    "country_code": "br"
+  },
+  {
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "attack_type": "DNS Spoofing",
+    "date": "2023-01-01",
+    "time": "03:42",
+    "definition": "DNS spoofing redirects traffic to malicious sites by corrupting DNS records.",
+    "security": "Use DNSSEC and secure DNS servers.",
+    "country_code": "jp"
+  },
+  {
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "attack_type": "SQL Injection",
+    "date": "2023-01-06",
+    "time": "19:07",
+    "definition": "SQL injection is a code injection technique that might destroy your database.",
+    "security": "Use prepared statements, ORM, and input validation.",
+    "country_code": "br"
+  },
+  {
+    "latitude": 6.5244,
+    "longitude": 3.3792,
+    "attack_type": "DNS Spoofing",
+    "date": "2023-01-11",
+    "time": "01:40",
+    "definition": "DNS spoofing redirects traffic to malicious sites by corrupting DNS records.",
+    "security": "Use DNSSEC and secure DNS servers.",
+    "country_code": "ng"
+  },
+  {
+    "latitude": 19.4326,
+    "longitude": -99.1332,
+    "attack_type": "Rootkit",
+    "date": "2023-01-16",
+    "time": "01:09",
+    "definition": "Rootkits enable unauthorized access while hiding their presence.",
+    "security": "Use anti-rootkit tools and perform regular system scans.",
+    "country_code": "mx"
+  },
+  {
+    "latitude": 30.0444,
+    "longitude": 31.2357,
+    "attack_type": "DNS Spoofing",
+    "date": "2023-01-21",
+    "time": "10:21",
+    "definition": "DNS spoofing redirects traffic to malicious sites by corrupting DNS records.",
+    "security": "Use DNSSEC and secure DNS servers.",
+    "country_code": "eg"
+  },
+  {
+    "latitude": 37.5665,
+    "longitude": 126.978,
+    "attack_type": "Wiper Malware",
+    "date": "2023-01-26",
+    "time": "22:20",
+    "definition": "Wiper malware deletes data on infected systems, causing irreversible damage.",
+    "security": "Use backups and endpoint detection tools.",
+    "country_code": "kr"
+  },
+  {
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "attack_type": "Botnet Attack",
+    "date": "2023-01-31",
+    "time": "23:06",
+    "definition": "Botnets are networks of infected devices used for coordinated attacks.",
+    "security": "Use firewalls and IDS systems.",
+    "country_code": "tr"
+  },
+  {
+    "latitude": 59.3293,
+    "longitude": 18.0686,
+    "attack_type": "Man-in-the-Middle",
+    "date": "2023-02-05",
+    "time": "11:34",
+    "definition": "MITM attacks intercept communication between two parties to steal data.",
+    "security": "Use encryption (TLS) and VPNs.",
+    "country_code": "se"
+  },
+  {
+    "latitude": -6.2088,
+    "longitude": 106.8456,
+    "attack_type": "Wiper Malware",
+    "date": "2023-02-10",
+    "time": "21:07",
+    "definition": "Wiper malware deletes data on infected systems, causing irreversible damage.",
+    "security": "Use backups and endpoint detection tools.",
+    "country_code": "id"
+  },
+  {
+    "latitude": -34.6037,
+    "longitude": -58.3816,
+    "attack_type": "SQL Injection",
+    "date": "2023-02-15",
+    "time": "06:37",
+    "definition": "SQL injection is a code injection technique that might destroy your database.",
+    "security": "Use prepared statements, ORM, and input validation.",
+    "country_code": "ar"
+  },
+  {
+    "latitude": 24.7136,
+    "longitude": 46.6753,
+    "attack_type": "SQL Injection",
+    "date": "2023-02-20",
+    "time": "13:24",
+    "definition": "SQL injection is a code injection technique that might destroy your database.",
+    "security": "Use prepared statements, ORM, and input validation.",
+    "country_code": "sa"
+  },
+  {
+    "latitude": 33.6844,
+    "longitude": 73.0479,
+    "attack_type": "Man-in-the-Middle",
+    "date": "2023-02-25",
+    "time": "11:17",
+    "definition": "MITM attacks intercept communication between two parties to steal data.",
+    "security": "Use encryption (TLS) and VPNs.",
+    "country_code": "pk"
+  },
+  {
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "attack_type": "Wiper Malware",
+    "date": "2023-03-02",
+    "time": "23:44",
+    "definition": "Wiper malware deletes data on infected systems, causing irreversible damage.",
+    "security": "Use backups and endpoint detection tools.",
+    "country_code": "it"
+  },
+  {
+    "latitude": 52.2297,
+    "longitude": 21.0122,
+    "attack_type": "Rootkit",
+    "date": "2023-03-07",
+    "time": "14:11",
+    "definition": "Rootkits enable unauthorized access while hiding their presence.",
+    "security": "Use anti-rootkit tools and perform regular system scans.",
+    "country_code": "pl"
+  },
+  {
+    "latitude": 3.139,
+    "longitude": 101.6869,
+    "attack_type": "Man-in-the-Middle",
+    "date": "2023-03-12",
+    "time": "23:43",
+    "definition": "MITM attacks intercept communication between two parties to steal data.",
+    "security": "Use encryption (TLS) and VPNs.",
+    "country_code": "my"
+  },
+  {
+    "latitude": 13.7563,
+    "longitude": 100.5018,
+    "attack_type": "SQL Injection",
+    "date": "2023-03-17",
+    "time": "19:13",
+    "definition": "SQL injection is a code injection technique that might destroy your database.",
+    "security": "Use prepared statements, ORM, and input validation.",
+    "country_code": "th"
+  },
+  {
+    "latitude": 35.6892,
+    "longitude": 51.389,
+    "attack_type": "Rootkit",
+    "date": "2023-03-22",
+    "time": "13:05",
+    "definition": "Rootkits enable unauthorized access while hiding their presence.",
+    "security": "Use anti-rootkit tools and perform regular system scans.",
+    "country_code": "ir"
+  },
+  {
+    "latitude": -1.2921,
+    "longitude": 36.8219,
+    "attack_type": "Botnet Attack",
+    "date": "2023-03-27",
+    "time": "02:15",
+    "definition": "Botnets are networks of infected devices used for coordinated attacks.",
+    "security": "Use firewalls and IDS systems.",
+    "country_code": "ke"
+  },
+  {
+    "latitude": -33.4489,
+    "longitude": -70.6693,
+    "attack_type": "Drive-by Download",
+    "date": "2023-04-01",
+    "time": "21:16",
+    "definition": "Malware is downloaded and installed without user consent from compromised websites.",
+    "security": "Keep software updated and use web filtering.",
+    "country_code": "cl"
+  },
+  {
+    "latitude": 21.0285,
+    "longitude": 105.8544,
+    "attack_type": "Botnet Attack",
+    "date": "2023-04-06",
+    "time": "15:45",
+    "definition": "Botnets are networks of infected devices used for coordinated attacks.",
+    "security": "Use firewalls and IDS systems.",
+    "country_code": "vn"
+  }
+]
