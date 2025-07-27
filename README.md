@@ -42,6 +42,10 @@ Each entry includes:
 - Prevention Techniques
 - Country Code (for flag rendering)
 
+## 📸 Screenshots
+Map interface:(https://github.com/ridamir039-rgb/CyberAware-Map/blob/main/map-sample.png) 
+Playcard interface: (https://github.com/ridamir039-rgb/CyberAware-Map/blob/main/playcard-sample.png) 
+
 ## 📚 Future Enhancements
 
 - Real-time cyberattack feeds via APIs (e.g., FireEye, Shodan)
@@ -56,7 +60,5 @@ Each entry includes:
 
 
 ## 🔗 Links
-
-- 🔗 [Live Demo](https://yourusername.github.io/cyberaware/)
 - 📄 [Project Report (DOCX)](https://github.com/ridamir039-rgb/CyberAware-Map/blob/main/Devpost%20CyberAware%20Project%20Report.docx)
 
