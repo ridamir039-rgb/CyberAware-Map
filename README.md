@@ -44,6 +44,7 @@ Each entry includes:
 
 ## 📸 Screenshots
 Map interface:(https://github.com/ridamir039-rgb/CyberAware-Map/blob/main/map-sample.png) 
+
 Playcard interface: (https://github.com/ridamir039-rgb/CyberAware-Map/blob/main/playcard-sample.png) 
 
 ## 📚 Future Enhancements
