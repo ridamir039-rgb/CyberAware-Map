@@ -57,7 +57,7 @@ Playcard interface: (https://github.com/ridamir039-rgb/CyberAware-Map/blob/main/
 
 ## 👨‍💻 Team
 
-> Developed by Rida and Sidra Maryam,  Computer Science students passionate about cybersecurity, frontend engineering, and data storytelling.
+> Developed by Rida Mir and Sidra Maryam,  Computer Science students passionate about cybersecurity, frontend engineering, and data storytelling.
 
 
 ## 🔗 Links
